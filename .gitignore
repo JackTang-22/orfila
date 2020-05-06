@@ -14,4 +14,4 @@ gen
 .idea/jarRepositories.xml
 .idea/misc.xml
 .idea/vcs.xml
-base/src/
+base/target
