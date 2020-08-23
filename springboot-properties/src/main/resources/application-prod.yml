@@ -1,0 +1,9 @@
+application:
+  name: prod env
+  version: prod version
+developer:
+  name: prod
+  website: www.xx.com
+  qq: 1234567
+  phone-number: 1243214124124
+    

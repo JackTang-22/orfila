@@ -1,0 +1,8 @@
+application:
+  name: dev env
+  version: dev version
+developer:
+  name: dev
+  website: www.xx.com
+  qq: 1234567
+  phone-number: 1243214124124
