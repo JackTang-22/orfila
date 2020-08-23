@@ -16,3 +16,6 @@ gen
 .idea/vcs.xml
 base/target
 .class
+.mvn/
+mvnw
+mvnw.cmd
